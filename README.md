@@ -1,6 +1,10 @@
 
-### Hola, mi nombre es Leslie✨
-Soy desarrolladora front end jr👩🏻‍💻 creativa y empática, con una sólida capacidad analítica y pensamiento crítico que me permite convertir mis ideas en soluciones prácticas💡 Mi pasión por la tecnología los números, el diseño, la música y el arte me impulsa a mantenerme curiosa y aprender cosas nuevas todo el tiempo. Me gusta ser yo misma en todos momentos. Soy una persona responsable y con iniciativa, siempre dispuesta a enfrentar nuevos desafíos💪🏼 <br>Inicie mi camino en la programación en el bootcamp Laboratoria, en donde la fusión entre preparación tecnológica y desarrollo humano es evidente. Este espacio no solo te forma profesionalmente en tecnología, sino que también te empodera para tomar las riendas de tu propio aprendizaje, por medio del desarrollo práctico de proyectos simulando un entorno laboral real con un enfoque en metodologías ágiles.<br>En Laboratoria, adquieres habilidades técnicas fundamentales, incluyendo HTML, CSS y JavaScript para la programación y diseño de interfaces centrados en las necesidades del usuario. Se destaca la aplicación de test unitarios con Jest para garantizar la funcionalidad del código. Además, amplías tus habilidades aprendiendo a utilizar Node.js, capacitándote para construir eficientes aplicaciones del lado del servidor. 
+### Hola👋🏼
+<br>Soy Leslie✨, una creativa desarrolladora front end jr💡
+<br>👩🏻‍💻Transformando mi pasión por la tecnología y el diseño en código eficiente
+<br>
+<br>Inicié mi viaje en programación en Laboratoria, donde adquirí diversas habilidades técnicas destacando en el desarrollo de interfaces centradas en el usuario y la aplicación de test unitarios con Jest.
+<br>
 <br>Estoy emocionada por combinar mis intereses y cualidades en el desarrollo front end🤓
 
 ## 🌐 Socials:
